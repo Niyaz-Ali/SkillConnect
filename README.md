@@ -39,9 +39,6 @@ The project was built to practice modern frontend development, responsive UI des
 ## 📸 Project Preview
 
 
-_Add screenshots of the application here._
-
-
 ## ⚙️ Installation
 
 
